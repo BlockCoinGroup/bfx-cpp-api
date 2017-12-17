@@ -1,0 +1,11 @@
+bfx-api-cpp.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+bfx-api-cpp.xcodeproj/xcuserdata/jvr23.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+bfx-api-cpp.xcodeproj/xcuserdata/jvr23.xcuserdatad/xcschemes/bfx-api-cpp.xcscheme
+bfx-api-cpp.xcodeproj/xcuserdata/jvr23.xcuserdatad/xcschemes/xcschememanagement.plist
+bfx-api-cpp.xcodeproj/project.pbxproj
+BitfinexAPI.cpp
+BitfinexAPI.hpp
+example.cpp
+license.txt
+README.md
+withdraw.conf
